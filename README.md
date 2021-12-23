@@ -1,2 +1,2 @@
-# Read Me
+# README
 this is  a test
